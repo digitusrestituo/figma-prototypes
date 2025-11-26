@@ -9,9 +9,11 @@ Includes responsive versions for desktop, tablet, and mobile.
 - **Mobile**   
 
 ## 🖼️ Screenshots
-![Desktop Layout](desktop-layout.png)
-![Tablet Layout](tablet-layout.png)
-![Mobile Layout](mobile-layout.png)
+![Thumbnail](thumbnail1.png)
+![Thumbnail](thumbnail2.png)
+![Thumbnail](thumbnail3.png)
+![Thumbnail](thumbnail4.png)
+![Thumbnail](thumbnail5.png)
 
 ## 🔗 Live Figma Project
 View full design here: [Figma Link](https://www.figma.com/design/zH7FKEp2ecc0pNdmq20ZAd/My_Portfolio?node-id=0-1&t=arRpsamAybZBAwaJ-1)
