@@ -14,7 +14,7 @@ Includes responsive versions for desktop, tablet, and mobile.
 ![Mobile Layout](mobile-layout.png)
 
 ## 🔗 Live Figma Project
-View full design here: [Figma Link](https://www.figma.com/design/Q5AQEmaq3tiarnd9Xk0xQi/M%C4%81jas-lapa?node-id=0-1&t=Zu08dp9r9nhI9n7W-1)
+View full design here: [Figma Link](https://www.figma.com/design/zH7FKEp2ecc0pNdmq20ZAd/My_Portfolio?node-id=0-1&t=arRpsamAybZBAwaJ-1)
 
 ---      
 
